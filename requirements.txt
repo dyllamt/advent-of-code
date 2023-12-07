@@ -1,4 +1,6 @@
 # application
+requests
+toolz
 
 # testing
 black

@@ -1,7 +1,5 @@
-# python-template
-Template for python projects.
+# advent of code
+My solutions for advent of code 🎅
 
-## Setup
 
-1. add `project` and `description` to setup.py
-2. edit `project` name for src package
+Requires you to paste you session cookie in the file "session-cookie.txt" in the root directory.
